@@ -14,6 +14,6 @@ Click on the copy button to copy each command! ⬇️
 
 <pre><code>https://myfame.in/ref/jno9g</code></pre>
 
-<pre><code>pwd</code></pre>
+<pre><code>write a program in python to click in this codinates as pper instrustion of right and left click coodinate are :</code></pre>
 
 ---
