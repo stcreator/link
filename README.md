@@ -10,7 +10,7 @@ Click on the copy button to copy each command! ⬇️
 
 <pre><code>https://temp-mail.org/</code></pre>
 
-<pre><code>https://www.instagram.com/reel/C7Ujj4uy4QC</code></pre>
+<pre><code>https://www.instagram.com/reel/DSsGNNTE2Fh/?l=1</code></pre>
 
 <pre><code>https://myfame.in/ref/jno9g</code></pre>
 
